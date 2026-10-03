@@ -18,6 +18,9 @@ header h1{font-size:18px;margin:0;white-space:nowrap}
 #sources{display:none}
 body.quellen #sources{display:block}
 body.quellen #q,body.quellen #rf,body.quellen #live,body.quellen #shorts,body.quellen h2,body.quellen #g,body.quellen #more,body.quellen #empty{display:none}
+footer{max-width:900px;margin:34px auto 6px;text-align:center;color:var(--mut);font-size:12.5px;line-height:1.7}
+footer a{color:var(--acc);text-decoration:none}
+footer .sep{margin:0 7px;opacity:.6}
 .slist h3{margin:16px 2px 8px;color:var(--mut);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em}
 .src{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:11px 13px;background:var(--card);border-radius:10px;margin-bottom:8px;text-decoration:none;color:var(--txt)}
 .src:hover{background:#242424}
@@ -81,6 +84,10 @@ body.pad{padding-bottom:calc(env(safe-area-inset-bottom) + 300px)}
   <div id="empty">Lade …</div>
   <section id="sources"><h2>Quellen</h2><div class="slist" id="sl">Lade …</div></section>
 </main>
+<footer>
+  <a href="https://github.com/ogerly/ki-r-feed" target="_blank" rel="noopener">github.com/ogerly/ki-r-feed</a>
+  <span class="sep">·</span><span>Reines Privatprojekt &amp; Spielplatz — ohne kommerzielle Interessen</span>
+</footer>
 <div id="dock">
   <div class="bar"><span id="pt"></span><div><button id="mn">Min</button> <button id="cl">✕</button></div></div>
   <div class="fr"><iframe id="pf" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
@@ -209,7 +216,7 @@ function play(id){
   $('pt').textContent=v?v.title:'';
   $('dock').className='on';document.body.classList.add('pad');
 }
-document.addEventListener('click',e=>{const c=e.target.closest('.card');if(c)play(c.dataset.id)});
+document.addEventListener('click',e=>{const c=e.target.closest('.card,.scard');if(c&&c.dataset.id)play(c.dataset.id)});
 $('cl').onclick=()=>{$('pf').src='';$('dock').className='';document.body.classList.remove('pad')};
 $('mn').onclick=()=>{$('dock').classList.toggle('min')};
 $('q').oninput=()=>{clearTimeout(t);t=setTimeout(()=>load(),250)};

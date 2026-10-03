@@ -5,7 +5,7 @@ Nutzung:
   python3 publish.py            # Refresh + Export + commit/push
   python3 publish.py --no-push  # nur Refresh + Export (Dry-Run)
 """
-import asyncio, json, os, shutil, subprocess, sys, time
+import asyncio, json, os, re, shutil, subprocess, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -56,6 +56,83 @@ def build_site():
         f'<meta property="og:site_name" content="KI Robotik Feed">', 1)
     (BASE / "index.html").write_text(html, encoding="utf-8")
     (BASE / "404.html").write_text(html, encoding="utf-8")
+
+
+SOCIAL_URL = "https://ogerly.github.io/ki-r-feed/"
+
+
+def _fmt(t, n):
+    t = re.sub(r"\s+", " ", t or "").strip()
+    return (t[:n] + "…") if len(t) > n else t
+
+
+def _pick():
+    with server.db() as d:
+        live = [dict(r) for r in d.execute(server.SELECT + " WHERE v.live=1 ORDER BY v.published DESC LIMIT 1")]
+        new = [dict(r) for r in d.execute(server.SELECT + " WHERE v.shorts=0 AND v.live=0 ORDER BY v.published DESC, v.id DESC LIMIT 20")]
+        short = [dict(r) for r in d.execute(server.SELECT + " WHERE v.shorts=1 ORDER BY v.published DESC, v.id DESC LIMIT 1")]
+    picks = []
+    for cat in ("ki", "robotic"):
+        picks += [v for v in new if v["cat"] == cat][:2]
+    for v in new:
+        if len(picks) >= 3:
+            break
+        if v["id"] not in {p["id"] for p in picks}:
+            picks.append(v)
+    return picks[:3], (live[0] if live else None), (short[0] if short else None)
+
+
+def build_x(picks, live_v, short_v):
+    for n in (58, 44, 30):
+        post = "Neu im KI+R Feed 🇩🇪\n\n" + "\n".join(f"• {_fmt(v['title'], n)}" for v in picks)
+        if live_v:
+            post += f"\n🔴 LIVE: {_fmt(live_v['title'], n)} — {live_v['channel']}"
+        if short_v:
+            post += f"\n⚡ {_fmt(short_v['title'], n)}"
+        post += f"\n#KI #Robotik #AI\n{SOCIAL_URL}"
+        if len(post) <= 280:
+            return post
+    post = "Neu im KI+R Feed 🇩🇪\n\n" + "\n".join(f"• {_fmt(v['title'], 30)}" for v in picks[:2])
+    return post + f"\n#KI #Robotik #AI\n{SOCIAL_URL}"
+
+
+def build_li(picks, live_v, short_v):
+    post = "Neues aus der KI- und Robotik-Welt ist online.\n\nIn den letzten Stunden neu:\n"
+    post += "\n".join(f"• „{_fmt(v['title'], 90)}“ ({v['channel']})" for v in picks)
+    if live_v:
+        post += f"\nUnd gerade live: „{_fmt(live_v['title'], 90)}“ ({live_v['channel']})"
+    if short_v:
+        post += f"\nNeu als Short: „{_fmt(short_v['title'], 90)}“"
+    post += f"\n\nDer Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.\n\n{SOCIAL_URL}\n#KünstlicheIntelligenz #Robotik #Innovation"
+    return post
+
+
+def build_tg(picks, live_v, short_v):
+    post = "Neu im Feed 🤖\n" + "\n".join(f"• {_fmt(v['title'], 70)}" for v in picks)
+    if live_v:
+        post += f"\n🔴 LIVE jetzt: {_fmt(live_v['title'], 70)}"
+    post += f"\n{SOCIAL_URL}\n#KI #Robotik"
+    return post
+
+
+def social():
+    picks, live_v, short_v = _pick()
+    if not picks:
+        return False
+    entry_id = "|".join(v["id"] for v in picks) + "|" + (live_v or {}).get("id", "")
+    path = BASE / "social.md"
+    existing = path.read_text(encoding="utf-8") if path.exists() else ""
+    if entry_id in existing:
+        return False
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    header = "# Social Posts\n\n_Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._\n"
+    entry = f"\n## {ts}\n\n### X\n\n{build_x(picks, live_v, short_v)}\n\n### LinkedIn / Foren\n\n{build_li(picks, live_v, short_v)}\n\n### WhatsApp / Telegram\n\n{build_tg(picks, live_v, short_v)}\n\n---\n"
+    idx = existing.find("\n## ")
+    body = header + entry + (existing[idx + 1:] if idx != -1 else "")
+    parts = body.split("\n## ")
+    path.write_text(parts[0] + "".join("## " + p for p in parts[1:31]), encoding="utf-8")
+    print(f"social.md: neuer Eintrag ({len(picks)} Videos" + (" + LIVE" if live_v else "") + (", +Short" if short_v else "") + ")")
+    return True
 
 
 def git(*args, quiet=False):
@@ -118,6 +195,7 @@ def main():
     asyncio.run(server.run_all())
     n = export()
     build_site()
+    social()
     print(f"Fertig in {time.time() - t0:.0f}s - {n} Videos exportiert.")
     if "--no-push" in sys.argv:
         print("--no-push: Git-Commit uebersprungen.")

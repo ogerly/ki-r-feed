@@ -1,5 +1,5 @@
 # AGENTS
-- **Update/Publish (1 Rutsch):** `python3 publish.py` → Feeds+Live+Shorts abrufen → DB → `data/videos.json` + `index.html`/`404.html` bauen → commit + push → GitHub Pages live (~20–60 s). Lädt Token aus `.env` (GITHUB_API_TOKEN). `--no-push` = Dry-Run. Takt: ~3×/Tag, manuell.
+- **Update/Publish (1 Rutsch):** `python3 publish.py` → Feeds+Live+Shorts abrufen → DB → `data/videos.json` + `index.html`/`404.html` + `social.md` (Social-Posts: X/LinkedIn/WhatsApp, Regeln in WH-002-SOCIAL) bauen → commit + push → GitHub Pages live (~20–60 s). Lädt Token aus `.env` (GITHUB_API_TOKEN). `--no-push` = Dry-Run. Takt: ~3×/Tag, manuell.
 - Backend: server.py (FastAPI + SQLite `feed.db`, Hintergrund-Task: Feeds alle 10 Min., Live-Check alle 5 Min.)
 - API: /api/videos (limit, before+before_id, q, channel, cat — Live+Shorts ausgeschlossen), /api/shorts (limit, cat), /api/live (cat), /api/channels (id,name,cat,url,count), POST /api/refresh
 - Seiten: / (Alle), /ki, /robotik, /quellen — serverseitig META-Tags (server.py: META)
