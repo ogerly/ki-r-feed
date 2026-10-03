@@ -13,6 +13,15 @@ header h1{font-size:18px;margin:0;white-space:nowrap}
 #tabs{display:flex;gap:6px}
 #tabs button{background:#161616;color:var(--mut);border-radius:14px;padding:7px 11px;font-size:13.5px}
 #tabs button.on{background:var(--acc);color:#00131f;font-weight:700}
+#src{background:#161616;color:var(--mut);border-radius:14px;padding:7px 11px;font-size:13.5px;text-decoration:none;white-space:nowrap}
+#src.on{background:var(--acc);color:#00131f;font-weight:700}
+#sources{display:none}
+body.quellen #sources{display:block}
+body.quellen #q,body.quellen #rf,body.quellen #live,body.quellen #shorts,body.quellen h2,body.quellen #g,body.quellen #more,body.quellen #empty{display:none}
+.slist h3{margin:16px 2px 8px;color:var(--mut);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em}
+.src{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:11px 13px;background:var(--card);border-radius:10px;margin-bottom:8px;text-decoration:none;color:var(--txt)}
+.src:hover{background:#242424}
+.src span{color:var(--mut);font-size:12.5px;white-space:nowrap}
 @media(max-width:560px){header h1{display:none}}
 #q{flex:1;min-width:0;background:#121212;border:1px solid #303030;color:var(--txt);border-radius:20px;padding:8px 14px;font-size:15px}
 button{background:#272727;color:var(--txt);border:0;border-radius:18px;padding:8px 12px;cursor:pointer}
@@ -60,6 +69,7 @@ body.pad{padding-bottom:calc(env(safe-area-inset-bottom) + 300px)}
   <h1>KI+R Feed</h1>
   <nav id="tabs"><button data-cat="all" class="on">Alle</button><button data-cat="ki">KI</button><button data-cat="robotic">Robotik</button></nav>
   <input id="q" type="search" placeholder="Videos oder Kanäle suchen">
+  <a id="src" href="/quellen">Quellen</a>
   <button id="rf" title="Aktualisieren">⟳</button>
 </header>
 <main>
@@ -69,6 +79,7 @@ body.pad{padding-bottom:calc(env(safe-area-inset-bottom) + 300px)}
   <div class="grid" id="g"></div>
   <div style="text-align:center;margin:20px"><button id="more" hidden>Mehr laden</button></div>
   <div id="empty">Lade …</div>
+  <section id="sources"><h2>Quellen</h2><div class="slist" id="sl">Lade …</div></section>
 </main>
 <div id="dock">
   <div class="bar"><span id="pt"></span><div><button id="mn">Min</button> <button id="cl">✕</button></div></div>
@@ -79,6 +90,8 @@ const $=id=>document.getElementById(id);
 let vids=[],live=[],shorts=[],more=false,busy=false,liveBusy=false,queued=false,seq=0,t;
 const PATHCAT={"/":"all","/ki":"ki","/robotik":"robotic"},CATPATH={all:"/",ki:"/ki",robotic:"/robotik"};
 let cat=PATHCAT[location.pathname]||"all";
+let view=location.pathname==="/quellen"?"quellen":"feed";
+if(view==="quellen")document.body.classList.add("quellen");
 const ago=s=>{const d=(Date.now()-new Date(s))/1000;
   if(d<3600)return`vor ${Math.max(1,d/60|0)} Min.`;
   if(d<86400)return`vor ${d/3600|0} Std.`;
@@ -123,7 +136,8 @@ const scard=v=>`<div class="scard" data-id="${v.id}">
   <div class="sth"><img loading="lazy" src="https://i.ytimg.com/vi/${v.id}/oar2.jpg" onerror="this.onerror='';this.src='https://i.ytimg.com/vi/${v.id}/mqdefault.jpg'" alt=""></div>
   <div class="st">${esc(v.title)}</div><div class="sm">${esc(v.channel)}</div></div>`;
 function paint(){
-  document.querySelectorAll("#tabs button").forEach(b=>b.classList.toggle("on",b.dataset.cat===cat));
+  document.querySelectorAll("#tabs button").forEach(b=>b.classList.toggle("on",view==="feed"&&b.dataset.cat===cat));
+  $("src").classList.toggle("on",view==="quellen");
   $('live').hidden=!live.length;
   $('lg').innerHTML=live.map(card).join('');
   $('shorts').hidden=!shorts.length;
@@ -163,10 +177,31 @@ async function loadShorts(){
     paint();
   }catch(e){}
 }
-function setCat(c,push=true){
+function goFeed(c,push=true){
+  view="feed";document.body.classList.remove("quellen");
   cat=c;
-  if(push){const p=CATPATH[c];if(location.pathname!==p)history.pushState({cat:c},"",p)}
+  if(push){const p=CATPATH[c];if(location.pathname!==p)history.pushState({},"",p)}
   vids=[];more=false;paint();load();loadLive();loadShorts();
+}
+function goQuellen(push=true){
+  view="quellen";document.body.classList.add("quellen");
+  if(push&&location.pathname!="/quellen")history.pushState({},"","/quellen");
+  paint();loadSources();
+}
+async function loadSources(){
+  try{
+    let chans;
+    if(mode==="api")chans=await(await fetch("/api/channels")).json();
+    else chans=(await staticData()).channels;
+    const cats=[...new Set(chans.map(c=>c.cat))];
+    const label={ki:"KI",robotic:"Robotik"};
+    $("sl").innerHTML=cats.map(c=>
+      `<h3>${esc(label[c]||c)} · ${chans.filter(x=>x.cat===c).length} Kanäle</h3>`+
+      chans.filter(x=>x.cat===c).map(x=>
+        `<a class="src" href="${x.url}" target="_blank" rel="noopener">${esc(x.name)}<span>${x.count?x.count+" Videos":""}</span></a>`
+      ).join("")
+    ).join("");
+  }catch(e){$("sl").innerHTML="Fehler beim Laden."}
 }
 function play(id){
   const v=[...live,...vids,...shorts].find(x=>x.id===id);
@@ -186,11 +221,16 @@ $('rf').onclick=async()=>{
   $('rf').disabled=false;
   load();loadLive();loadShorts();
 };
-document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>setCat(b.dataset.cat));
-window.addEventListener("popstate",()=>setCat(PATHCAT[location.pathname]||"all",false));
+document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>goFeed(b.dataset.cat));
+$("src").onclick=e=>{e.preventDefault();goQuellen();};
+window.addEventListener("popstate",()=>{
+  if(location.pathname==="/quellen")goQuellen(false);
+  else goFeed(PATHCAT[location.pathname]||"all",false);
+});
 (async()=>{
   mode=await probe();
-  load();loadLive();loadShorts();
+  if(view==="quellen")goQuellen(false);
+  else goFeed(PATHCAT[location.pathname]||"all",false);
   setInterval(loadLive,60000);
   setInterval(()=>{if(mode==="static")ds=null;load();loadLive();loadShorts()},300000);
 })();
