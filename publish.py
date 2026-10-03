@@ -5,13 +5,27 @@ Nutzung:
   python3 publish.py            # Refresh + Export + commit/push
   python3 publish.py --no-push  # nur Refresh + Export (Dry-Run)
 """
-import asyncio, json, shutil, subprocess, sys, time
+import asyncio, json, os, shutil, subprocess, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
 
 BASE = Path(__file__).parent
 if str(BASE) not in sys.path:
     sys.path.insert(0, str(BASE))
+
+
+def load_env():
+    p = BASE / ".env"
+    if not p.exists():
+        return
+    for line in p.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip())
+
+
+load_env()
 import server  # noqa: E402  (init, run_all, SELECT, META, db)
 
 
@@ -44,11 +58,25 @@ def build_site():
     (BASE / "404.html").write_text(html, encoding="utf-8")
 
 
-def git(*args):
+def git(*args, quiet=False):
     r = subprocess.run(["git", *args], cwd=BASE, capture_output=True, text=True)
     if r.returncode != 0:
-        raise RuntimeError(f"git {' '.join(args)}: {r.stderr.strip() or r.stdout.strip()}")
+        msg = (r.stderr.strip() or r.stdout.strip())
+        if quiet:
+            msg = msg.replace(os.environ.get("GITHUB_API_TOKEN", ""), "***")
+        raise RuntimeError(f"git {' '.join(args)}: {msg}")
     return r.stdout.strip()
+
+
+def ensure_credentials():
+    token = os.environ.get("GITHUB_API_TOKEN", "")
+    if not token:
+        return
+    r = subprocess.run(["git", "credential", "approve"], cwd=BASE,
+                       input=f"protocol=https\nhost=github.com\nusername=x-access-token\npassword={token}\n\n",
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        print("Warnung: GITHUB_API_TOKEN konnte nicht zurueckgesetzt werden (git credential approve).")
 
 
 def ensure_identity():
@@ -79,7 +107,8 @@ def publish(msg):
         print("  git remote add origin https://github.com/<user>/<repo>.git")
         print("  git push -u origin main")
         return
-    git("push", "origin", "main")
+    ensure_credentials()
+    git("push", "origin", "main", quiet=True)
     print("Pushed nach GitHub.")
 
 
