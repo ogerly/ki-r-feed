@@ -6,3 +6,4 @@ WORKING/
 .agent.json
 .aams-version
 opencode.json
+.env
