@@ -7,4 +7,5 @@
 - Kanäle: channels.json — {"channels": {ki: [...], robotic: [...]}} pro Eintrag {"name": "...", "url": "https://www.youtube.com/@handle"}
 - Deploy: publish.py (1 Durchlauf: refresh → data/videos.json → index.html+404.html → git commit/push), GitHub Pages: https://ogerly.github.io/ki-r-feed/
 - Daten: feed.db (lokal, git-ignored, regenerierbar), data/videos.json = client-fertiger Export, .env (GITHUB_API_TOKEN, git-ignored)
+- Analytics: Umami Cloud — Script wird von `build_site()` (publish.py) NUR in index.html/404.html injiziert; lokal (static/index.html, localhost:8377) bleibt es weg
 - Logik/Doku/Entscheidungen in WORKING/ (Whitepaper WH-001-PUB = System-Treue)

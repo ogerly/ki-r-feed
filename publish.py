@@ -54,6 +54,8 @@ def build_site():
         f'<meta property="og:title" content="{title}">'
         f'<meta property="og:description" content="{desc}">'
         f'<meta property="og:site_name" content="KI Robotik Feed">', 1)
+    html = html.replace("</head>",
+        '<script defer src="https://cloud.umami.is/script.js" data-website-id="e6b36a0b-736f-4a21-9801-a1a6a07b0e2f"></script></head>', 1)
     (BASE / "index.html").write_text(html, encoding="utf-8")
     (BASE / "404.html").write_text(html, encoding="utf-8")
 
