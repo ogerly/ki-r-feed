@@ -1,0 +1,83 @@
+{
+  "channels": {
+    "ki": [
+    {"id": 1, "name": "Henry Hasselbach", "url": "https://www.youtube.com/@HenryHasselbach"},
+    {"id": 2, "name": "Niklas Steenfatt", "url": "https://www.youtube.com/@NiklasSteenfatt"},
+    {"id": 3, "name": "Jörg Schieb | Superkraft KI", "url": "https://www.youtube.com/@SuperkraftKI"},
+    {"id": 4, "name": "Hendrik - KI", "url": "https://www.youtube.com/@hendrik-naumann"},
+    {"id": 5, "name": "AI mit Arnie", "url": "https://www.youtube.com/@Arnold-Oberleiter"},
+    {"id": 6, "name": "Doppelter Espresso mit Torben Platzer", "url": "https://www.youtube.com/channel/UCVEljrpqZg3o7UJZoWgjKQA"},
+    {"id": 7, "name": "The Morpheus", "url": "https://www.youtube.com/@TheMorpheusVlogs"},
+    {"id": 8, "name": "The Morpheus Tutorials", "url": "https://www.youtube.com/@TheMorpheusTutorials"},
+    {"id": 9, "name": "Heise KI Update", "url": "https://www.youtube.com/@KIUpdate"},
+    {"id": 10, "name": "KI in der Praxis", "url": "https://www.youtube.com/@DanielWeikert"},
+    {"id": 11, "name": "c't 3003", "url": "https://www.youtube.com/@ct3003"},
+    {"id": 12, "name": "Everlast AI Clips", "url": "https://www.youtube.com/@EverlastAIClips"},
+    {"id": 13, "name": "Everlast AI", "url": "https://www.youtube.com/@everlastai"},
+    {"id": 14, "name": "Mario Alka", "url": "https://www.youtube.com/@mario_alka"},
+    {"id": 15, "name": "AIIANER", "url": "https://www.youtube.com/@aiianer"},
+    {"id": 16, "name": "MikesWorld", "url": "https://www.youtube.com/@mikesworld_at"},
+    {"id": 17, "name": "GolemDE", "url": "https://www.youtube.com/@GolemDE"},
+    {"id": 18, "name": "Julian Ivanov | KI-Automatisierung", "url": "https://www.youtube.com/@Julian-Ivanov"},
+    {"id": 19, "name": "Philip Thomas", "url": "https://www.youtube.com/@philipthomas_de"},
+    {"id": 20, "name": "Levin AI", "url": "https://www.youtube.com/@thelevinai"},
+    {"id": 21, "name": "Ralf Klemmer", "url": "https://www.youtube.com/@RalfKlemmer"},
+    {"id": 22, "name": "IchBinFabian", "url": "https://www.youtube.com/@IchBinFabian"},
+    {"id": 23, "name": "ZELDOgiq", "url": "https://www.youtube.com/@zeldogiq"},
+    {"id": 24, "name": "Joey Engler", "url": "https://www.youtube.com/@JoeyEngler"},
+    {"id": 25, "name": "Robert Leitinger", "url": "https://www.youtube.com/@RobertLeitinger"},
+    {"id": 26, "name": "AI Revolution auf Deutsch", "url": "https://www.youtube.com/@airevolutionx_dede"},
+    {"id": 27, "name": "Niklas Hansen", "url": "https://www.youtube.com/@niklas.hansen"},
+    {"id": 28, "name": "WPerfolg - KI & Online Marketing meistern", "url": "https://www.youtube.com/@wperfolg"},
+    {"id": 29, "name": "Niklas AI", "url": "https://www.youtube.com/@Niklas_AI"},
+    {"id": 30, "name": "Marc De Fanti", "url": "https://www.youtube.com/@marcdefanti"},
+    {"id": 31, "name": "Dirk Winiecki | Lokale KI", "url":"https://www.youtube.com/@winiecki-ai"},
+    {"id": 32, "name": "AgentenFabrik", "url":"https://www.youtube.com/@AgentenFabrikMeister"},
+    {"id": 33, "name": "EarnixLab", "url":"https://www.youtube.com/@EarnixLab"},
+    {"id": 34, "name": "Jonas Keil", "url":"https://www.youtube.com/@JonasKeil/videos"},
+    {"id": 35, "name": "Zubair Trabzada | AI Workshop", "url":"https://www.youtube.com/@AI-GPTWorkshop"},
+    {"id": 36, "name": "Unbiased Bob", "url":"https://www.youtube.com/@Unbiased-Bob"},
+    {"id": 37, "name": "Alexander Führen", "url":"https://www.youtube.com/@alexanderfuehren"},
+    {"id": 38, "name": "Niklas Volland", "url":"https://www.youtube.com/@niklasvolland"},
+    {"id": 39, "name": "Das KI-Kochbuch", "url":"https://www.youtube.com/@werchota-daskikochbuch"},
+    {"id": 40, "name": "codecentric AG", "url":"https://www.youtube.com/@codecentricAG"},
+    {"id": 41, "name": "Garrit Wilson", "url":"https://www.youtube.com/@garritwilsonai"},
+    {"id": 42, "name": "UnderdoxAI", "url":"https://www.youtube.com/@KevinMatyja-UnderdoxAI"},
+    {"id": 43, "name": "Fraunhofer IEM", "url":"https://www.youtube.com/@FraunhoferIEM"},
+    {"id": 44, "name": "AI in der Praxis", "url":"https://www.youtube.com/@DanielWeikert"},
+    {"id": 45, "name": "Preview Podcasth", "url":"https://www.youtube.com/@previewpodcast"},
+    {"id": 46, "name": "Karl Olsberg", "url":"https://www.youtube.com/@KarlOlsbergAutor"},
+    {"id": 47, "name": "Salvatore Princi", "url":"https://www.youtube.com/@salvatoreprinci"},
+    {"id": 48, "name": "Leonard Schmedding", "url":"https://www.youtube.com/channel/UCiKCgeGNFCoLF086q-Bl-HA"},
+    {"id": 49, "name": "RionBuilds | AI einfach machen", "url":"https://www.youtube.com/@rionbuilds"},
+    {"id": 50, "name": "Stefan 3D AI", "url":"https://www.youtube.com/@stefan_3d_ai"},
+    {"id": 51, "name": "Felicia Simon", "url":"https://www.youtube.com/@FeliciaSimon"},
+    {"id": 52, "name": "Bernhard Bachmeier", "url":"https://www.youtube.com/@bernhard.bachmeier"}
+ 
+ 
+   
+ 
+  
+  ],
+  "robotic": [
+    {"id": 1, "name": "Boston Dynamics", "url": "https://www.youtube.com/@BostonDynamics"},
+    {"id": 2, "name": "MACHINEKIND", "url": "https://www.youtube.com/channel/UCxQYCrQL8YOJ3CEgL7K6OEQ"},
+    {"id": 3, "name": "Everlast Robotics", "url": "https://www.youtube.com/channel/UCrsjdqXseSxCpRgeSbdimTg"},
+    {"id": 4, "name": "RoboSphäre | Jens Fischer", "url": "https://www.youtube.com/@RoboSphaere"},
+    {"id": 5, "name": "Robotik in der Industrie", "url": "https://www.youtube.com/@Robotikpodcast"},
+    {"id": 6, "name": "Der KI & Roboterkanal", "url": "https://www.youtube.com/@Roboterkanal"},
+    {"id": 7, "name": "Robotics Institute Germany", "url": "https://www.youtube.com/@RoboticsInstituteGermany"},
+    {"id": 8, "name": "Asimov", "url": "https://www.youtube.com/@asimovinc"},
+    {"id": 9, "name": "Robotik Zentrale", "url": "https://www.youtube.com/@RobotikZentrale-l9z"},
+    {"id": 10, "name": "RobotsBlog", "url": "https://www.youtube.com/@RobotsBlog"},
+    {"id": 11, "name": "Robotik TV", "url": "https://www.youtube.com/@RobotikundProduktion"},
+    {"id": 12, "name": "Robohorizon", "url": "https://www.youtube.com/@Robohorizon"},
+    {"id": 13, "name": "Roboterwelt", "url": "https://www.youtube.com/@Roboterwelt"},
+    {"id": 14, "name": "Roboterwelt", "url": "https://www.youtube.com/@Roboterwelt"},
+    {"id": 15, "name": "Roboterwelt", "url": "https://www.youtube.com/@Roboterwelt"}
+ 
+    
+ 
+  ]
+}
+}

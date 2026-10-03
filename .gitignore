@@ -1,0 +1,8 @@
+feed.db
+__pycache__/
+channel_ids.json
+video.json
+WORKING/
+.agent.json
+.aams-version
+opencode.json
