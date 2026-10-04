@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-03 11:29 UTC
+## 2026-10-04 07:08 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Welche KI ist die beste? Die Frage ist falsc…
+• Anleitung: USB-Soundkarte selber bauen mit R…
+• UNITREE DEX5-S: DIE ROBOTERHAND MIT 22 FREIH…
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Welche KI ist die beste? Die Frage ist falsch“ (Jörg Schieb | Superkraft KI)
+• „Anleitung: USB-Soundkarte selber bauen mit Raspberry Pico 2“ (c't 3003)
+• „UNITREE DEX5-S: DIE ROBOTERHAND MIT 22 FREIHEITSGRADEN“ (Robotik Zentrale)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Welche KI ist die beste? Die Frage ist falsch
+• Anleitung: USB-Soundkarte selber bauen mit Raspberry Pico 2
+• UNITREE DEX5-S: DIE ROBOTERHAND MIT 22 FREIHEITSGRADEN
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-03 11:29 UTC
 
 ### X
 
