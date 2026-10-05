@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-05 04:51 UTC
+## 2026-10-05 20:53 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• ChatGPT kann deine nächsten 5 Jahre vorhersa…
+• Hat dir der Rauchmelder mit der schlafenden …
+• TAKU: DER ROBOTER, DER EINEN WASCHSALON ÜBER…
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „ChatGPT kann deine nächsten 5 Jahre vorhersagen ☠️“ (Niklas Volland)
+• „Hat dir der Rauchmelder mit der schlafenden Sprinkleranlage ein Grinsen entlockt? Dann gib…“ (AIIANER)
+• „TAKU: DER ROBOTER, DER EINEN WASCHSALON ÜBERNAHM“ (Robotik Zentrale)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• ChatGPT kann deine nächsten 5 Jahre vorhersagen ☠️
+• Hat dir der Rauchmelder mit der schlafenden Sprinkleranlage ein Grinse…
+• TAKU: DER ROBOTER, DER EINEN WASCHSALON ÜBERNAHM
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-05 04:51 UTC
 
 ### X
 
