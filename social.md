@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-04 07:08 UTC
+## 2026-10-05 04:51 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• KÜNDIGE ChatGPT sofort! Ganzes Video aufm Ka…
+• OpenAI: 20 Mrd. Dollar Umsatz, aber 1,4 Bill…
+• WARUM BAUT TESLA ROBOTER, DIE NOCH NICHT ARB…
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „KÜNDIGE ChatGPT sofort! Ganzes Video aufm Kanal!“ (UnderdoxAI)
+• „OpenAI: 20 Mrd. Dollar Umsatz, aber 1,4 Billionen Dollar Verpflichtungen #shorts“ (IchBinFabian)
+• „WARUM BAUT TESLA ROBOTER, DIE NOCH NICHT ARBEITEN KÖNNEN?“ (Robotik Zentrale)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• KÜNDIGE ChatGPT sofort! Ganzes Video aufm Kanal!
+• OpenAI: 20 Mrd. Dollar Umsatz, aber 1,4 Billionen Dollar Verpflichtung…
+• WARUM BAUT TESLA ROBOTER, DIE NOCH NICHT ARBEITEN KÖNNEN?
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-04 07:08 UTC
 
 ### X
 
