@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-05 20:53 UTC
+## 2026-10-06 11:49 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Platzt die KI-Blase? Was uns die Eisenbahn u…
+• KI-Preise halbiert: Experten-Wissen billiger…
+• Asimov 1 locomotion policy keeps getting str…
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Platzt die KI-Blase? Was uns die Eisenbahn und der Gründerkrach 1873 zeigen #shorts“ (IchBinFabian)
+• „KI-Preise halbiert: Experten-Wissen billiger als Kaffee?“ (Joey Engler)
+• „Asimov 1 locomotion policy keeps getting stronger“ (Asimov)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Platzt die KI-Blase? Was uns die Eisenbahn und der Gründerkrach 1873 z…
+• KI-Preise halbiert: Experten-Wissen billiger als Kaffee?
+• Asimov 1 locomotion policy keeps getting stronger
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-05 20:53 UTC
 
 ### X
 
