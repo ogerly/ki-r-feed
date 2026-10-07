@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-06 11:49 UTC
+## 2026-10-07 07:33 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• KI-Kontingent nach Außendienst: Jetzt kann i…
+• Sam Altman geht mit seiner bisher brisantest…
+• Lokale KI: Eigener KI-Agent auf Windows mit …
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „KI-Kontingent nach Außendienst: Jetzt kann ich richtig ballern“ (Mario Alka)
+• „Sam Altman geht mit seiner bisher brisantesten KI-Aussage viral“ (AI Revolution auf Deutsch)
+• „Lokale KI: Eigener KI-Agent auf Windows mit 1 Installer (Hermes)“ (Dirk Winiecki | Lokale KI)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• KI-Kontingent nach Außendienst: Jetzt kann ich richtig ballern
+• Sam Altman geht mit seiner bisher brisantesten KI-Aussage viral
+• Lokale KI: Eigener KI-Agent auf Windows mit 1 Installer (Hermes)
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-06 11:49 UTC
 
 ### X
 
