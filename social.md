@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-08 09:42 UTC
+## 2026-10-08 19:36 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Claude Code hat gerade Mods ve…
+• Endlich ein echtes Open-Source…
+• NUCLEUS: ZWEI STUNDEN HUMANOID…
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ Strix Halo im LLM-Benchmark: S…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Claude Code hat gerade Mods veröffentlicht. (Meistere sie in 10 Minuten)“ (Marc De Fanti)
+• „Endlich ein echtes Open-Source-Monster? Mistral Large 4 im Test!“ (RionBuilds | AI einfach machen)
+• „NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTEN“ (Robotik Zentrale)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „Strix Halo im LLM-Benchmark: So schnell ist lokale KI“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Claude Code hat gerade Mods veröffentlicht. (Meistere sie in 10 Minute…
+• Endlich ein echtes Open-Source-Monster? Mistral Large 4 im Test!
+• NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTE…
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-08 09:42 UTC
 
 ### X
 
