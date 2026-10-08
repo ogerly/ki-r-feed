@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-07 07:33 UTC
+## 2026-10-08 09:42 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Macht RGB deine Grafikkarte schneller? #Shor…
+• KI-Schock in China: 70 Millionen Jobs in Gef…
+• China's New Flying AI Robot Breaks The Inter…
+⚡ Gemini 4 Argon vs Opus 5.5: fast gleich gut,…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Macht RGB deine Grafikkarte schneller? #Shorts“ (Mario Alka)
+• „KI-Schock in China: 70 Millionen Jobs in Gefahr - mehr als Frankreich Einwohner hat“ (Everlast AI Clips)
+• „China's New Flying AI Robot Breaks The Internet“ (MACHINEKIND)
+Neu als Short: „Gemini 4 Argon vs Opus 5.5: fast gleich gut, aber 6,63 $ statt 79 Cent pro Durchlauf #shor…“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Macht RGB deine Grafikkarte schneller? #Shorts
+• KI-Schock in China: 70 Millionen Jobs in Gefahr - mehr als Frankreich …
+• China's New Flying AI Robot Breaks The Internet
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-07 07:33 UTC
 
 ### X
 
