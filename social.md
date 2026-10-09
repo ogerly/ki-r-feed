@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-08 19:36 UTC
+## 2026-10-09 06:43 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• ChatGPT erstellt jetzt interak…
+• Anthropic bereitet sich jetzt …
+• NUCLEUS: ZWEI STUNDEN HUMANOID…
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ Claude lügt dich an – mit dies…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „ChatGPT erstellt jetzt interaktive Tools – direkt im Chat“ (Alexander Führen)
+• „Anthropic bereitet sich jetzt wirklich auf die KI-Apokalypse vor“ (AI Revolution auf Deutsch)
+• „NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTEN“ (Robotik Zentrale)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „Claude lügt dich an – mit diesem Prompt nicht mehr“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• ChatGPT erstellt jetzt interaktive Tools – direkt im Chat
+• Anthropic bereitet sich jetzt wirklich auf die KI-Apokalypse vor
+• NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTE…
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-08 19:36 UTC
 
 ### X
 
