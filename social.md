@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-09 06:43 UTC
+## 2026-10-09 08:33 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Arduino VENTUNO Q im Praxistes…
+• 🔴 ios graphing calculator w/ l…
+• NUCLEUS: ZWEI STUNDEN HUMANOID…
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ Vibe-Coding: Darum ändert KI o…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Arduino VENTUNO Q im Praxistest: Lokale KI für 399 € - Vision Model #llm“ (Mario Alka)
+• „🔴 ios graphing calculator w/ local ai“ (Unbiased Bob)
+• „NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTEN“ (Robotik Zentrale)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „Vibe-Coding: Darum ändert KI oft den kompletten Code!, 1 Aufruf – Short abspielen“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Arduino VENTUNO Q im Praxistest: Lokale KI für 399 € - Vision Model #l…
+• 🔴 ios graphing calculator w/ local ai
+• NUCLEUS: ZWEI STUNDEN HUMANOIDER ROBOTER BEI DER ARBEIT – UNGESCHNITTE…
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-09 06:43 UTC
 
 ### X
 
