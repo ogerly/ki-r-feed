@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-09 08:33 UTC
+## 2026-10-09 17:03 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Was wirklich passiert, wenn du bei ChatGPT a…
+• Mistral Large 4 vs DeepSeek, GLM und Claude …
+• GALBOT ENTHÜLLT DEN PREIS DES ET1, UND EIN D…
+⚡ Vibe-Coding: Darum ändert KI oft den komplet…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Was wirklich passiert, wenn du bei ChatGPT auf Löschen drückst“ (Jörg Schieb | Superkraft KI)
+• „Mistral Large 4 vs DeepSeek, GLM und Claude Opus: Der ehrliche Test“ (IchBinFabian)
+• „GALBOT ENTHÜLLT DEN PREIS DES ET1, UND EIN DETAIL FÄLLT AUF“ (Robotik Zentrale)
+Neu als Short: „Vibe-Coding: Darum ändert KI oft den kompletten Code!“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Was wirklich passiert, wenn du bei ChatGPT auf Löschen drückst
+• Mistral Large 4 vs DeepSeek, GLM und Claude Opus: Der ehrliche Test
+• GALBOT ENTHÜLLT DEN PREIS DES ET1, UND EIN DETAIL FÄLLT AUF
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-09 08:33 UTC
 
 ### X
 
