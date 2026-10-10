@@ -14,7 +14,7 @@ API_KEY = os.getenv("YT_API_KEY", "")  # optional: robustere Live-Erkennung
 FEED_EVERY = 600                        # Feeds alle 10 Min.
 LIVE_EVERY = 120 if API_KEY else 300    # Live-Check
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
-UA = {"User-Agent": "Mozilla/5.0", "Accept-Language": "de-DE,de;q=0.9", "Cookie": "CONSENT=YES+1"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36", "Accept-Language": "de-DE,de;q=0.9", "Cookie": "SOCS=CAI; CONSENT=YES+1"}
 lock = asyncio.Lock()
 
 

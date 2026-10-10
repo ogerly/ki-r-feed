@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-10 06:47 UTC
+## 2026-10-10 06:49 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• vielleicht lieber noch abwarte…
+• Amerikas DeepSeek ist da: Der …
+• GALBOT ENTHÜLLT DEN PREIS DES …
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ Bewerbungsgespräch mit ChatGPT…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „vielleicht lieber noch abwarten“ (Unbiased Bob)
+• „Amerikas DeepSeek ist da: Der neue König der Open-Source-KI“ (AI Revolution auf Deutsch)
+• „GALBOT ENTHÜLLT DEN PREIS DES ET1, UND EIN DETAIL FÄLLT AUF“ (Robotik Zentrale)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „Bewerbungsgespräch mit ChatGPT vorbereiten 🎯“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• vielleicht lieber noch abwarten
+• Amerikas DeepSeek ist da: Der neue König der Open-Source-KI
+• GALBOT ENTHÜLLT DEN PREIS DES ET1, UND EIN DETAIL FÄLLT AUF
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-10 06:47 UTC
 
 ### X
 
