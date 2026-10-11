@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-10 06:49 UTC
+## 2026-10-11 04:03 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• OpenAI löst Hunderte Mathe-Pro…
+• DAS ist die NEUE Generation de…
+• Neuer Ameca Gen 3 KI-Roboter w…
+🔴 LIVE: KI Livestream - Claude, Hermes… — AIIANER
+⚡ curl in bash zu pipen ist Inko…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „OpenAI löst Hunderte Mathe-Probleme: Das Ende der Mathematik? + Hat Claude eine Seele? | #…“ (Preview Podcasth)
+• „DAS ist die NEUE Generation der KI-Musikvideos (mit Lip-Sync)“ (Levin AI)
+• „Neuer Ameca Gen 3 KI-Roboter wird VIEL ZU MENSCHLICH“ (MACHINEKIND)
+Und gerade live: „KI Livestream - Claude, Hermes und vieles mehr...“ (AIIANER)
+Neu als Short: „curl in bash zu pipen ist Inkompetenz auf Grundschulniveau“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• OpenAI löst Hunderte Mathe-Probleme: Das Ende der Mathematik? + Hat Cl…
+• DAS ist die NEUE Generation der KI-Musikvideos (mit Lip-Sync)
+• Neuer Ameca Gen 3 KI-Roboter wird VIEL ZU MENSCHLICH
+🔴 LIVE jetzt: KI Livestream - Claude, Hermes und vieles mehr...
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-10 06:49 UTC
 
 ### X
 
