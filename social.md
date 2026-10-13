@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-11 04:03 UTC
+## 2026-10-13 05:00 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Claude: Diese KI muss vor uns …
+• ICH HABE EIN SPIEL MIT KI ENTW…
+• Asimov Menlo SDK v13
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ Day 352 of building Asimov 1, …
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Claude: Diese KI muss vor uns Menschen geschützt werden“ (Salvatore Princi)
+• „ICH HABE EIN SPIEL MIT KI ENTWICKELT UND 1000 SPIELER BEKOMMEN“ (Stefan 3D AI)
+• „Asimov Menlo SDK v13“ (Asimov)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „Day 352 of building Asimov 1, an open-source humanoid. Asimov can now move its arms while …“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Claude: Diese KI muss vor uns Menschen geschützt werden
+• ICH HABE EIN SPIEL MIT KI ENTWICKELT UND 1000 SPIELER BEKOMMEN
+• Asimov Menlo SDK v13
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-11 04:03 UTC
 
 ### X
 
