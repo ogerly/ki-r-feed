@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-13 05:00 UTC
+## 2026-10-14 13:32 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• KI-Update kompakt: OpenAI-Spio…
+• #heiseshow: KI-Klone, PC-Markt…
+• New Unitree G1 AI Robot Just S…
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ So schreibst du perfekte ChatG…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „KI-Update kompakt: OpenAI-Spionage, Zerstörung, Zulassung, KI-Replikation, Muse Wonder“ (Heise KI Update)
+• „#heiseshow: KI-Klone, PC-Markt, Mathematiker vs. OpenAI“ (c't 3003)
+• „New Unitree G1 AI Robot Just SURPASSED Human Skills“ (MACHINEKIND)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „So schreibst du perfekte ChatGPT-Prompts – mit nur 3 einfachen Schritten!“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• KI-Update kompakt: OpenAI-Spionage, Zerstörung, Zulassung, KI-Replikat…
+• #heiseshow: KI-Klone, PC-Markt, Mathematiker vs. OpenAI
+• New Unitree G1 AI Robot Just SURPASSED Human Skills
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-13 05:00 UTC
 
 ### X
 

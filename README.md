@@ -32,3 +32,5 @@ jeweiligen Kanälen **öffentlich** auf YouTube veröffentlicht — wir zeigen n
 was öffentlich ist. Die Inhalte gehören den Kanälen.
 Wer Code oder Daten für eigene Zwecke (v. a. kommerziell) nutzen will:
 **selbst die Rechtslage prüfen** (YouTube-ToS, Urheberrecht, DSGVO).
+
+
