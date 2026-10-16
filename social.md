@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-15 06:33 UTC
+## 2026-10-16 04:14 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Gemini 4 Argon vs Claude Opus …
+• Gemini 4 Argon im Test: Lohnt …
+• BOSTON DYNAMICS UND DIE NEUE H…
+🔴 LIVE: #heiseshow: Apple Event, Homeo… — c't 3003
+⚡ video19
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Gemini 4 Argon vs Claude Opus 5.5: Wer baut besser?“ (IchBinFabian)
+• „Gemini 4 Argon im Test: Lohnt sich jetzt Google AI Pro?“ (RionBuilds | AI einfach machen)
+• „BOSTON DYNAMICS UND DIE NEUE HAND VON ATLAS“ (Robotik Zentrale)
+Und gerade live: „#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos“ (c't 3003)
+Neu als Short: „video19“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Gemini 4 Argon vs Claude Opus 5.5: Wer baut besser?
+• Gemini 4 Argon im Test: Lohnt sich jetzt Google AI Pro?
+• BOSTON DYNAMICS UND DIE NEUE HAND VON ATLAS
+🔴 LIVE jetzt: #heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-15 06:33 UTC
 
 ### X
 
