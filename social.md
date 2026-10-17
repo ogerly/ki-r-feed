@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-16 04:14 UTC
+## 2026-10-17 07:13 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• KI-Mitarbeiter statt Chatbot: So funktioniert ein KI-Betri…
+• Anthropics Opus 6 befeuert eine beängstigende KI-Theorie
+• Zeroing your Asimov 1
+⚡ ChatGPT stimmt dir in 57 % der Fälle zu
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „KI-Mitarbeiter statt Chatbot: So funktioniert ein KI-Betriebssystem“ (Garrit Wilson)
+• „Anthropics Opus 6 befeuert eine beängstigende KI-Theorie“ (AI Revolution auf Deutsch)
+• „Zeroing your Asimov 1“ (Asimov)
+Neu als Short: „ChatGPT stimmt dir in 57 % der Fälle zu“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• KI-Mitarbeiter statt Chatbot: So funktioniert ein KI-Betriebssystem
+• Anthropics Opus 6 befeuert eine beängstigende KI-Theorie
+• Zeroing your Asimov 1
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-16 04:14 UTC
 
 ### X
 
