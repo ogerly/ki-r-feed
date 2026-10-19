@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-17 07:13 UTC
+## 2026-10-19 08:11 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Die 3 Handgriffe, damit deine Chats nicht be…
+• 🔴 Profiling Strata Forks: Maya vs. Unbiased …
+• Kaffee geholt, Einbruch begangen: Das Robote…
+⚡ 125 Milliarden Parameter auf einer Gaming-Gr…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Die 3 Handgriffe, damit deine Chats nicht bei der Werbung landen“ (Jörg Schieb | Superkraft KI)
+• „🔴 Profiling Strata Forks: Maya vs. Unbiased vs. PolyStrata | LIVE“ (Unbiased Bob)
+• „Kaffee geholt, Einbruch begangen: Das Roboter Alignment Problem!“ (RoboSphäre | Jens Fischer)
+Neu als Short: „125 Milliarden Parameter auf einer Gaming-Grafikkarte: So macht es Strata #shorts“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Die 3 Handgriffe, damit deine Chats nicht bei der Werbung landen
+• 🔴 Profiling Strata Forks: Maya vs. Unbiased vs. PolyStrata | LIVE
+• Kaffee geholt, Einbruch begangen: Das Roboter Alignment Problem!
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-17 07:13 UTC
 
 ### X
 
