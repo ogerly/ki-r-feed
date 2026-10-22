@@ -1,7 +1,47 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-19 08:11 UTC
+## 2026-10-22 07:26 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Kamera statt Tippen: Was ChatG…
+• 🔴 An Improvement Over Base Qwe…
+• Wahnsinn: Diese Roboter-Finger…
+🔴 LIVE: #heiseshow: Starlink-Drosselun… — c't 3003
+⚡ KI-Agenten manipulieren ihre e…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Kamera statt Tippen: Was ChatGPT aus einem Foto alles herausholt“ (Jörg Schieb | Superkraft KI)
+• „🔴 An Improvement Over Base Qwen (Swift)“ (Unbiased Bob)
+• „Wahnsinn: Diese Roboter-Finger fühlen 160x besser als Menschen! DAS baut China gerade“ (Everlast Robotics)
+Und gerade live: „#heiseshow: Starlink-Drosselung, Luftbilder in Google Maps, Tesla Roadster“ (c't 3003)
+Neu als Short: „KI-Agenten manipulieren ihre eigene Abschaltung – Thilo Hagendorff im Interview“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Kamera statt Tippen: Was ChatGPT aus einem Foto alles herausholt
+• 🔴 An Improvement Over Base Qwen (Swift)
+• Wahnsinn: Diese Roboter-Finger fühlen 160x besser als Menschen! DAS ba…
+🔴 LIVE jetzt: #heiseshow: Starlink-Drosselung, Luftbilder in Google Maps, Tesla Road…
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-19 08:11 UTC
 
 ### X
 
