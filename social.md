@@ -1,7 +1,44 @@
 # Social Posts
 
 _Fertige Beiträge pro Update — jeweils der neueste Stand oben. Regeln: WH-002-SOCIAL (Whitepaper)._
-## 2026-10-22 07:26 UTC
+## 2026-10-23 12:25 UTC
+
+### X
+
+Neu im KI+R Feed 🇩🇪
+
+• Eine Woche ohne Desktop-PC: Kann ein AMD KI-…
+• Ukraine schickt humanoide Roboter an die FRO…
+• 560 KM OHNE VOM FLECK ZU KOMMEN: DER LAUFBAN…
+⚡ Day 363 of building Asimov, an open-source h…
+#KI #Robotik #AI
+https://ogerly.github.io/ki-r-feed/
+
+### LinkedIn / Foren
+
+Neues aus der KI- und Robotik-Welt ist online.
+
+In den letzten Stunden neu:
+• „Eine Woche ohne Desktop-PC: Kann ein AMD KI-Laptop meinen Arbeitsplatz ersetzen? #amd #RYZ…“ (Mario Alka)
+• „Ukraine schickt humanoide Roboter an die FRONT: In 6 Monaten ist es soweit!“ (Everlast AI Clips)
+• „560 KM OHNE VOM FLECK ZU KOMMEN: DER LAUFBAND-TEST DES FIGURE 03“ (Robotik Zentrale)
+Neu als Short: „Day 363 of building Asimov, an open-source humanoid“
+
+Der Feed bündelt die neuesten Videos aus 50+ Kanälen — chronologisch, mit Live- und Shorts-Bereich.
+
+https://ogerly.github.io/ki-r-feed/
+#KünstlicheIntelligenz #Robotik #Innovation
+
+### WhatsApp / Telegram
+
+Neu im Feed 🤖
+• Eine Woche ohne Desktop-PC: Kann ein AMD KI-Laptop meinen Arbeitsplatz…
+• Ukraine schickt humanoide Roboter an die FRONT: In 6 Monaten ist es so…
+• 560 KM OHNE VOM FLECK ZU KOMMEN: DER LAUFBAND-TEST DES FIGURE 03
+https://ogerly.github.io/ki-r-feed/
+#KI #Robotik
+
+---## 2026-10-22 07:26 UTC
 
 ### X
 
